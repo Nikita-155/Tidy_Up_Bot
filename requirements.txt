@@ -1,0 +1,5 @@
+aiogram==3.13.1
+python-dotenv==1.0.0
+sqlalchemy==2.0.23
+loguru==0.7.2
+aiogram-calendar==1.2.1
